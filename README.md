@@ -30,14 +30,15 @@ Three machine learning algorithms are compared throughout the experiments:
 - Scikit-learn
 - Google Colab
 - GitHub
-- ## Project Structure
+ ## Project Structure
+ '''text
 datasets/     Original datasets
 images/       Graphs and visualizations
 notebooks/    Google Colab notebooks
 results/      Experimental results
 report/       Final research paper
 src/          Future reusable Python modules
-
+'''
 ## Current Progress
 
 ✅ Data preprocessing
