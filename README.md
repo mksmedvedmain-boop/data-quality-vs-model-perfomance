@@ -31,12 +31,12 @@ Three machine learning algorithms are compared throughout the experiments:
 - Google Colab
 - GitHub
 ## Project Structure
-'''datasets/     Original datasets
+datasets/     Original datasets
 images/       Graphs and visualizations
 notebooks/    Google Colab notebooks
 results/      Experimental results
 report/       Final research paper
-src/          Future reusable Python modules'''
+src/          Future reusable Python modules
 
 ## Current Progress
 
